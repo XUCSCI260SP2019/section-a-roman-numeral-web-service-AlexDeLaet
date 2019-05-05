@@ -1,7 +1,8 @@
 package edu.xavier.csci.romanNubmeralWeb;
 
 public class SingleEncode {
+
     private String Letter;
-    public String getLetter() {return Letter; }
-    public void setLetter(String L) { Letter = L; }
+    public String getLet() {return Letter; }
+    public void setLet(String let) { Letter = let; }
 }
