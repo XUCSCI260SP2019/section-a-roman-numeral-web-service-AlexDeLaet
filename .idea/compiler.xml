@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="section-a-roman-numeral-web-service-AlexDeLaet.main" target="11" />
+      <module name="section-a-roman-numeral-web-service-AlexDeLaet.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
